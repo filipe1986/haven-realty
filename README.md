@@ -2,10 +2,14 @@
 
 **A PostgreSQL + Python project** showcasing old and charming apartments in New York.
 
-Built with love by **Philip Vieira** & **Cassandra** (Founder & CEO of Cozy Haven Realty).
+
 
 ![Cassandra - Founder](cassandra.jpg)  
-*(Add a nice photo of yourself or we can generate one)*
+(Founder & CEO of Haven Realty).
+
+![Supabase - apartments](supabase.png)
+Build by Philip VIeira
+
 
 ## Project Goals
 - Realistic database schema for real estate
@@ -25,6 +29,7 @@ Sample Data
 Cozy apartments in Brooklyn Heights, West Village, Harlem, etc.
 
 Tech Stack: PostgreSQL (Supabase), Python, Faker
+
 
 ![Apartments Table in Supabase](supabase.png)
 
