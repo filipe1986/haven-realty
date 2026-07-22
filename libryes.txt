@@ -1,0 +1,4 @@
+supabase: The officcial Phthon client provided by Supabase. It allows our Python script communicate with the database, authenticate and run queries like INSERT.
+
+faker: a very popular Python library specifically designed to generate mock data, like real-looking addresses, fake street names, random numbers, dates, and realistic text descriptions.
+
