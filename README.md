@@ -26,3 +26,7 @@ Cozy apartments in Brooklyn Heights, West Village, Harlem, etc.
 
 Tech Stack: PostgreSQL (Supabase), Python, Faker
 
+![Apartments Table in Supabase](supabase.png)
+
+![Cassandra the Senior Data Analyst](Cassandra.png)
+
