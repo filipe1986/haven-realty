@@ -1,14 +1,19 @@
 # Cozy Haven Realty - NYC Apartments Database
 
 **A PostgreSQL + Python project** showcasing old and charming apartments in New York.
+
+
 This project was built with psql shell (postgreSQL in command line).
 
-After created the SQL table I built a Python script to generate mock data. 
+
+After created the SQL table I built a Python script to generate mock data.
+
+
 The next step was to send this data back to the database on Supabase.
 
 
 
-![Cassandra - Founder](Cassandra.jpg)  
+![Cassandra - Founder](Cassandra.png)  
 (Founder & CEO of Haven Realty).
 
 ![Supabase - apartments](supabase.png)
